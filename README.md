@@ -1,4 +1,4 @@
-# padnyll
+# Padnyll
 Process of building a control pad
 <br>
 Project Status: On-going
