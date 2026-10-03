@@ -35,7 +35,7 @@ Now about the Control Pad:
 
 - [x] Keyboard concept
 - [x] Initial design
-- [ ] Schematic
+- [x] Schematic
 - [ ] PCB
 - [ ] Case
 - [ ] Firmware
