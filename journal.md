@@ -34,6 +34,7 @@ Time: 1 Hour and 21 Minutes.
 View here: https://lapse.hackclub.com/timelapse/4liHlmPmqTJj
 <br>
 <img width="634" height="529" alt="image" src="https://github.com/user-attachments/assets/803e34e4-67d2-4a2f-9438-19997eb0caf9" />
+<br>
 The PCB was a bit hard, so I asked my friend for help creating it. The issues I had the most were wiring the keycaps and Volume encoder to the microcontroller, but I got past that section thankfully.
 
 
