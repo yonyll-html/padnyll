@@ -36,11 +36,12 @@ Now about the Control Pad:
 - [x] Keyboard concept
 - [x] Initial design
 - [x] Schematic
-- [ ] PCB
+- [X] PCB
 - [ ] Case
 - [ ] Firmware
 - [ ] Assembly
 - [ ] Testing
 
 Current Design:
-<img width="1920" height="1080" alt="Padnyll Img" src="https://github.com/user-attachments/assets/92ccb883-ab3b-4fdd-bdf9-4337da6bb179" />
+<img width="1920" height="1080" alt="Padnyll Img" src="https://github.com/user-attachments/assets/b7120eb2-1e11-4f2f-8962-3b330808bb73" />
+
