@@ -37,4 +37,18 @@ View here: https://lapse.hackclub.com/timelapse/4liHlmPmqTJj
 <br>
 The PCB was a bit hard, so I asked my friend for help creating it. The issues I had the most were wiring the keycaps and Volume encoder to the microcontroller, but I got past that section thankfully.
 
+# 10/10/26
+**Adding some details**
+<br>
+Time: 8 Minutes.
+<br>
+View Here: https://lapse.hackclub.com/timelapse/wbL0oxAxO7Wh
+<br>
+<img width="743" height="639" alt="Screenshot_20261010_110142" src="https://github.com/user-attachments/assets/3e7617fa-59e9-47ba-99d2-133a49a34de0" />
+<img width="747" height="661" alt="Screenshot_20261010_110414" src="https://github.com/user-attachments/assets/e993d7f3-dbf7-4fd7-b52e-62eed1833dc3" />
+<br>
+I added some details to my PCB Design. Mostly just random stuff.
+
+
+
 
